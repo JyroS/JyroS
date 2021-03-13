@@ -5,5 +5,4 @@ Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağ�
 
 Yakın zamanda sunacağım olan projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
 
-[Discord](https://discord.com/users/325134650630471680)
-[Instagram](https://www.instagram.com/jyros1/)
+[Discord](https://discord.com/users/325134650630471680) | [Instagram](https://www.instagram.com/jyros1/)
