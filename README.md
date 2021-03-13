@@ -13,3 +13,4 @@ Yakın zamanda sunacağım olan projelerim ile ilgili herhangi bir sorun ile kar
 
 
 ![JyroS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyroS&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyroS&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
