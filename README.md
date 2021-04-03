@@ -3,7 +3,7 @@
 Selam, ben JyroS!
 Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağım!
 
-Yakın zamanda sunacağım olan projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
+Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
 
 
 <p align="center">
