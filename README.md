@@ -14,3 +14,5 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyroS&show_icons=true&theme=dark&hide_border=true" width="%100" align="right">
   <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyroS&show_icons=true&theme=dark-yellow&hide_border=true" width="%100" height="150px">
+  <br><br>
