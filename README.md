@@ -1,4 +1,4 @@
-### Herkese Selam! Ben JyroS, Ciros <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+### Herkese Selam! Ben geldim açın kapıyı <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
 Selam, ben Eren! 2020 Aralık'tan beri Discord botları ile uğraşıyorum.
 Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağım!
