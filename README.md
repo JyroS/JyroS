@@ -12,6 +12,4 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
  <a href="https://www.instagram.com/jyros1/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
- <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JyroS&show_icons=true&theme=#000000&hide_border=true" width="%100" height="150px">
-    <br>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JyroS&show_icons=true&hide_title=true&theme=merko">
