@@ -8,9 +8,10 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
 
 <p align="center">
  <a href="https://discord.com/users/325134650630471680" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/b3gykk5tg47oow0mcioq072ea" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://github.com/Jyros" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://www.instagram.com/jyros1/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b3gykk5tg47oow0mcioq072ea)
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jyros&show_icons=true&hide_title=true&theme=merko">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyros&show_icons=true&hide_title=true&theme=merko">
