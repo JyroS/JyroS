@@ -17,10 +17,10 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b3gykk5tg47oow0mcioq072ea)
 <p align = "center">
- Profile tıklayan kişi sayısı:
+ Profile tıklayan kişi sayısı: 
 </p>
 <p align = "center">
-<img src="https://profile-counter.glitch.me/{Jyros}/count.svg" />
+<img src="https://profile-counter.glitch.me/{Jyros}/count.svg" width="350" />
 </p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jyros&show_icons=true&hide_title=true&theme=merko">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyros&show_icons=true&hide_title=true&theme=merko">
