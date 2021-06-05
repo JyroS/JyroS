@@ -20,7 +20,7 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
  Profile tıklayan kişi sayısı: 
 </p>
 <p align = "center">
-<img src="https://profile-counter.glitch.me/{Jyros}/count.svg" width="50%" align="left"  />
+<img src="https://profile-counter.glitch.me/{Jyros}/count.svg" width="25%" align="left"  />
 </p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jyros&show_icons=true&hide_title=true&theme=merko">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyros&show_icons=true&hide_title=true&theme=merko">
