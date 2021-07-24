@@ -15,5 +15,5 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
  <a href="https://www.twitch.tv/jyros1" target"blank_"><img src="https://img.shields.io/badge/twitch%20-e3d3e0.svg?&style=for-the-badge&logo=twitch&logoColor=853476"></a>
 
 <p align = "center"> <img src="https://profile-counter.glitch.me/{Jyros}/count.svg" width="30%" align="middle"/> </p>
-<img width="41%" align="middle" src="https://github-readme-stats.vercel.app/api?username=Jyros&show_icons=true&hide_title=true&theme=merko">
-<img width="36%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyros&show_icons=true&hide_title=true&theme=merko">
+<img width="47%" align="middle" src="https://github-readme-stats.vercel.app/api?username=Jyros&show_icons=true&hide_title=true&theme=merko">
+<img width="33%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyros&show_icons=true&hide_title=true&theme=merko">
