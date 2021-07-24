@@ -14,8 +14,6 @@ Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşıl
  <a href="https://www.instagram.com/jyros1/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.twitch.tv/jyros1" target"blank_"><img src="https://img.shields.io/badge/twitch%20-e3d3e0.svg?&style=for-the-badge&logo=twitch&logoColor=853476"></a>
 
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b3gykk5tg47oow0mcioq072ea)
 <p align = "center"> <img src="https://profile-counter.glitch.me/{Jyros}/count.svg" width="30%" align="left"/> </p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jyros&show_icons=true&hide_title=true&theme=merko">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyros&show_icons=true&hide_title=true&theme=merko">
