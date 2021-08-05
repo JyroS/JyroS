@@ -1,6 +1,6 @@
-### Herkese Selam! Ben Jyros namı değer Çayros <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+### Herkese Selam! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
-Selam, ben Eren! 15 Yaşındayım ve 2020 Aralık'tan beri Discord botları ile uğraşıyorum.
+Selam, ben Eren! 14 Yaşındayım ve 2020 Aralık'tan beri Discord botları ile uğraşıyorum.
 Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağım!
 
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
