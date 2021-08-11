@@ -3,6 +3,8 @@
 Selam, ben Eren! 14 Yaşındayım ve 2020 Aralık'tan beri Discord botları ile uğraşıyorum.
 Bu GitHub hesabım ile sizlere Discord Botları ile ilgili altyapılar sunacağım!
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796032235085627422?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/796032235085627422)
+
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
 
 
